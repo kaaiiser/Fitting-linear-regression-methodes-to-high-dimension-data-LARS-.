@@ -41,5 +41,6 @@ https://github.com/hughperkins/selfstudy-LARS/blob/master/test_lars.ipynb
 
 https://machinelearningmastery.com/lars-regression-with-python/
 
+https://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems
 
 ##### Izradio: Adil Kolaković
