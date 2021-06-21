@@ -22,7 +22,7 @@ Povećaj <img src="https://latex.codecogs.com/svg.image?\beta&space;_{j}" title=
 
 #### Skup podataka
 
-Skup podataka korišćen za treniranje modela je "Boston house prices dataset".
+Skup podataka korišćen za treniranje modela je "Boston house prices dataset".(Residential Building Data Set)
 
 
 #### Literatura 
@@ -41,6 +41,6 @@ https://github.com/hughperkins/selfstudy-LARS/blob/master/test_lars.ipynb
 
 https://machinelearningmastery.com/lars-regression-with-python/
 
-https://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems
+https://archive.ics.uci.edu/ml/datasets/Residential+Building+Data+Set
 
 ##### Izradio: Adil Kolaković
