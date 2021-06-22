@@ -22,7 +22,7 @@ Povećaj <img src="https://latex.codecogs.com/svg.image?\beta&space;_{j}" title=
 
 #### Skup podataka
 
-Skup podataka korišćen za treniranje modela je "Boston house prices dataset".(Residential Building Data Set)
+Skup podataka korišćen za treniranje modela je "Residential Building Data Set".
 
 
 #### Literatura 
